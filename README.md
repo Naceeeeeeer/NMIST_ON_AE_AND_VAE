@@ -30,7 +30,7 @@ Our analysis focuses on the convergence of the models. The VAE loss encompasses 
 
 We create plots representing the latent space representations of both AE and VAE. Each point in the plot corresponds to a digit in the dataset.
 
-###Conclusion: 
+### Conclusion: 
 
 Our examination centers on the distribution of points in the latent space. The VAE's latent space is anticipated to display a smoother distribution due to its probabilistic nature.
 # Overall Conclusion:
