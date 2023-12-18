@@ -24,7 +24,8 @@ and so on...
 
 ### Loss and KL Divergence: 
 We visualize training and validation losses for both AE and VAE. Additionally, we plot the KL divergence for the VAE.
-### Conclusion: Our analysis focuses on the convergence of the models. The VAE loss encompasses a reconstruction term and a KL divergence term, illustrating the delicate balance between preserving information and introducing variability.
+#### Conclusion: 
+Our analysis focuses on the convergence of the models. The VAE loss encompasses a reconstruction term and a KL divergence term, illustrating the delicate balance between preserving information and introducing variability.
 ## Latent Space Visualization:
 
 We create plots representing the latent space representations of both AE and VAE. Each point in the plot corresponds to a digit in the dataset.
