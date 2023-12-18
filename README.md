@@ -10,7 +10,8 @@ Hyperparameters:
 Learning rate: 0.001
 Batch size: 64
 Epochs: 50
-Variational Autoencoder (VAE)
+
+# Variational Autoencoder (VAE)
 
 ## Architecture and Training:
 
