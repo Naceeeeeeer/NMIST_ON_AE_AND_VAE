@@ -1,4 +1,4 @@
-# NMIST_ON_VA_VAE:
+# NMIST_ON_AE_AND_VAE:
 
 In this experiment, we delve into the implementation of Autoencoders (AE) and Variational Autoencoders (VAE) on the MNIST dataset, a collection of grayscale images depicting handwritten digits. The dataset is accessible on Kaggle at **https://www.kaggle.com/datasets/hojjatk/mnist-dataset.**
 
